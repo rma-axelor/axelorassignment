@@ -1,0 +1,12 @@
+total 20
+-rw-rw-r--. 1 axelor axelor   0 Apr  6 12:40 0
+-rw-rw-r--. 1 axelor axelor  78 Apr  7 11:17 file1
+-rw-rw-r--. 1 axelor axelor   0 Apr  7 10:23 file2
+-rw-rw-r--. 1 axelor axelor  94 Apr  7 14:05 first.awk
+-rw-rw-r--. 1 axelor axelor   0 Apr  7 13:35 first.awl
+-rwxr-xr-x. 1 axelor axelor 845 Apr  7 13:36 first.sh
+-rw-rw-r--. 1 axelor axelor  40 Apr  7 10:01 fle1
+-rw-rw-r--. 1 axelor axelor   0 Apr  7 14:29 practice.txt
+-rw-rw-r--. 1 axelor axelor 691 Apr  7 13:36 scripts.txt
+-rw-rw-r--. 1 axelor axelor   0 Apr  6 12:47 second.sh
+drwxr-xr-x. 1 axelor axelor   0 Apr  6 13:12 shell commands
