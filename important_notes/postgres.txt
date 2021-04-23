@@ -1,0 +1,11 @@
+1. select * from table A
+except 
+select * from B; return all the elements from A except B
+2. COPY ablename(first_name, last_name, dob, email)
+FROM 'file.csv'
+DELIMITER ','
+CSV HEADER; : Copies all the content from file to table
+
+3. COPY persons(first_name,last_name,email) 
+   TO 'file.csv' DELIMITER ',' 
+   CSV HEADER; : Copies all the content from table to file
